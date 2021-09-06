@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>planeta.png</file>
+        <file>fondo.png</file>
+    </qresource>
+</RCC>
